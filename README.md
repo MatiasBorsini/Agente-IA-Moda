@@ -78,9 +78,17 @@ Para una demostración real controlada, utilizá una foto ficticia o autorizada,
 - El servicio usa una clave privilegiada; protegé el entorno y revisá accesos, políticas y privacidad de Storage. No uses datos de clientes reales para pruebas sin las medidas adecuadas.
 - `scripts/frescura.js` define una función, pero no la ejecuta; no hay un programador de tareas incluido.
 
-## Capturas
+## 📸 Capturas de la demostración
 
-Espacio reservado para capturas reales autorizadas del análisis, confirmación y propuesta. No se incluyen imágenes ni conversaciones privadas.
+Estas imágenes ilustran el flujo de Telegram y la revisión humana. No demuestran una publicación efectiva en Instagram.
+
+### Identificación y confirmación del producto
+<div align="center"><img src="assets/capturas/01_confirmacion_producto.png" alt="Telegram: análisis y confirmación de una prenda" width="460" /></div>
+
+### Propuesta de contenido para redes
+<div align="center"><img src="assets/capturas/02_propuesta_posteo.png" alt="Telegram: propuesta comercial para revisión humana" width="460" /></div>
+
+> La publicación en Meta/Instagram no está validada de extremo a extremo. No pulses «Aprobar» durante una demostración segura.
 
 ## Autor y uso académico
 
